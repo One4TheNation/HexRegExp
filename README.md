@@ -1,7 +1,7 @@
 ## HexRegExp
 Hex Decimal Regular Expression 
 
-# Title (Regex - HTML EXPRESSION)
+# Title (Regex - HEX EXPRESSION)
 
 Regex and HEX Expressions are like the unsung superheroes of the coding universe, their powers as impressive as any legendary thinker. These dynamic forces have etched their mark into the very core of modern programming. With their superhuman ability to match, parse, and transform data, they’ve ignited passionate debates among the brightest developers. Their impact shapes the digital realm, ensuring code runs smoother, faster, and with the precision of a superhero’s strike.
 
@@ -58,4 +58,4 @@ When it comes to the # character, it stands tall and doesn’t need escaping bec
 
 
 ## Author
-Phillip Navarre
+One4TheNation
