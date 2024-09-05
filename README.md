@@ -4,7 +4,7 @@ Hex Decimal Regular Expression
 
 # Title (Regex - HEX EXPRESSION)
 
-Regex and HEX Expressions are under used int the the coding community, their powers infinite for multiple applications. Hex expression are dynamic forces bake into modern programming. With their ability to match, parse, and transform data, they have sparked large debates among developers. Hex expression has shaped the digital landscape, making sure code runs better, faster, and stronger.
+Explaining Regex and HEX Expressions is a long and complicated task, the short answer, is they have infinite multiple uses for applications. Expression specifically hex are dynamic functions baked into modern programming. The ability to match, parse, and transform data, it has large implications security, art, numbers and other parts of code. To explain and explore expressions is to shape the digital landscape, on how to make sure the code runs better, faster, and stronger.
 
 ## Summary
 
@@ -25,11 +25,11 @@ Regex aligns its structure with and odd structure that providing a stronger obje
 
 ### Anchors
 
-Swinging into regex action: ^ kicks off the match right at the start of the string, like hitting the gas and zooming into action. Meanwhile, $ hits the brakes, ensuring the match wraps up perfectly at the end. Together, ^ and $ form a superhero team, making sure your string aligns with the pattern from start to finish, leaving no room for mistakes or extra fluff. They’re your ultimate sidekicks for a flawless regex match!
+This ^ symbol allow you to match up the starting line at the beginning of the hex string, for as this symbol $ lets you know that it is the end game character. They work as a pair to make sure your string is shielded and matches the pattern from first(start) base to home(finish) base, there are no room for errors or unnecessary characters.They’re your ultimate sidekicks for a flawless regex match!
 
 ### Quantifiers
 
-Strap in! The ? quantifier says, “Hey, that # symbol is totally optional—zero or one time, pal!” Then there’s {6}, which declares, “You need exactly 6 of those [a-f0-9] champs.” And {3}? It’s equally demanding, calling for exactly 3 of those [a-f0-9] characters.
+Question mark(s) (?) notifies you that this preceding element is optional and often appears as none. It can also show up once in the phrase. Now #? means the # symbol may or may not exist. On the other hand, {6} specifies an exact number of repetitions, so [a-f0-9]{6} demands exactly six characters from the set [a-f0-9]. Similarly, {3} specifies three occurrences of those [a-f0-9] characters.
 
 ### Grouping Constructs
 
